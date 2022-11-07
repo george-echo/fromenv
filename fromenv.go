@@ -6,8 +6,8 @@ import (
 	"log"
 	"os"
 
-	"github.com/lileio/pubsub/v2"
-	"github.com/lileio/pubsub/v2/providers/google"
+	"github.com/george-echo/pubsub/v2"
+	"github.com/george-echo/pubsub/v2/providers/google"
 	opentracing "github.com/opentracing/opentracing-go"
 	zipkinot "github.com/openzipkin-contrib/zipkin-go-opentracing"
 	"github.com/openzipkin/zipkin-go"
